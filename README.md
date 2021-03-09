@@ -56,7 +56,6 @@ If you running MacOs or having a different OS version that would make the instal
 ```
 docker build . -t phishing_Grabber
 ```
-![container](https://i.imgur.com/nEo13PH.jpg)
 
 # License
 
